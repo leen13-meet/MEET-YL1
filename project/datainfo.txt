@@ -1,1 +1,0 @@
-The data comes from http://lib.stat.cmu.edu/datasets/irish.ed
